@@ -84,7 +84,7 @@ header h1,header h2{
 	grid-row-start: 2;
 	grid-row-end: 3;
 	height: 100vh;
-	background-image: url(images/bottom.svg);
+	background-image: url(images/bottom.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 }
