@@ -86,6 +86,7 @@ header h1,header h2{
 	height: 100vh;
 	background-image: url(images/bottom.jpg);
 	background-size: cover;
+	background-position: 100% 100%;
 	background-attachment: fixed;
 }
 
