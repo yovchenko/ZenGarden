@@ -80,9 +80,13 @@ header h1,header h2{
 	padding: 10px;
 }
 
-footer {
+.extra1 {
 	grid-row-start: 2;
 	grid-row-end: 3;
+	height: 100vh;
+	background-image: url(images/bottom.svg);
+	background-size: cover;
+	background-attachment: fixed;
 }
 
 .sidebar {
@@ -94,10 +98,6 @@ footer {
 .summary, .preamble {
    padding: 10px;
    
-}
-
-.preamble {
-
 }
 
 @media screen and (max-width: 540px) {
