@@ -1,2 +1,2 @@
-# ZenGarden
+# zen-garden
 CSS design challenge
